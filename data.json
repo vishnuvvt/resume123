@@ -1,0 +1,20 @@
+{
+  "basics":{
+  "co":"this my sternght",
+  "data":{
+    "details":"1234455"
+  },
+  "educataion":[{
+    "name":"S S c",
+    "inst":"zep school mangalagiri with 90%",
+  },
+  {
+    "name":"intermediate:",
+    "inst":"completed my schooling with 89%",
+  },
+  {
+    "name":"btech",
+  "inst":"aliet",
+"per":"85%",
+}]
+}

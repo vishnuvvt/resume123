@@ -1,0 +1,48 @@
+body{
+  background:orange;
+  display: flex;
+}
+.main{
+  width:100%;
+  display:flex;
+  flex-direction: row;
+}
+.left{
+width:30%;
+background:blue;
+padding: 2%;
+margin: 2%;
+}
+.right{
+  background: red;
+  width:70%;
+  padding: 2%;
+  margin: 2%;
+  background-color:blue;
+}
+}
+background-color:orange;
+}
+img{
+  width: 30%;
+}
+
+
+@media only screen and(min-device-width:450px)and(max-device-width:720px){
+.main{
+width: 100%;
+flex-direction:column;
+}
+.left{
+width:100%;
+background:blue;
+padding: 2%;
+margin: 2%;
+}
+.right{
+  background: red;
+  width:100%;
+  padding: 2%;
+  margin: 2%;
+}
+}
